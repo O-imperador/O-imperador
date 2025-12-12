@@ -13,14 +13,7 @@ I’ve realized that I’m genuinely interested in whatever field I start explor
 
 History shows that it’s possible to excel in multiple domains when their connections are understood. For example, polymaths like **Ibn Sina (Avicenna)** were simultaneously physicians, philosophers, mathematicians, and scientists—he didn’t just accumulate unrelated skills, he **connected them into a coherent understanding of the world**. Similarly, I aim to explore different fields while looking for the **intersections that link them together**, so I can eventually learn them as a unified, versatile discipline.
 
-This mindset guides how I explore technology and knowledge, helping me **connect the dots** and gradually build a meaningful, versatile skill set.
-
----
-
-### 🔭 Current Projects
-- AI-powered career recommendation website  
-- Dashboards / client spaces for small businesses (with some automation)  
-- PaaS experiments with Flask, React, Terraform, Proxmox  
+This mindset guides how I explore technology and knowledge, helping me **connect the dots** and gradually build a meaningful, versatile skill set. 
 
 ---
 
@@ -47,10 +40,10 @@ This mindset guides how I explore technology and knowledge, helping me **connect
 🔹 CouchDB (tried once or twice)  
 
 **Other:**  
-✅ IoT (Arduino, Raspberry Pi 3)  
+⚡ IoT (Proteus/ never worked on an actual project, only simulations. But i have the basics)
 
 ---
 
 ### 🌱 Let's Connect
-📫 Reach me here on GitHub or by email  
-⚡ Fun fact: I enjoy building tools that **make learning and working easier**
+📫 Reach me here on GitHub, LinkedIn or by email  
+⚡ Fun fact: I enjoy building tools that **make learning, working and decision making easier**
