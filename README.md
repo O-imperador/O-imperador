@@ -15,34 +15,17 @@ History shows that it’s possible to excel in multiple domains when their conne
 
 This mindset guides how I explore technology and knowledge, helping me **connect the dots** and gradually build a meaningful, versatile skill set. 
 
----
-
 ### 🛠️ Skills & Tools
 
-**Frontend:**  
-✅ React, Tailwind CSS, HTML, CSS, JS  
+| Category                  | Tools & Level                                                                 |
+|----------------------------|------------------------------------------------------------------------------|
+| **Frontend**               | ✅ React, Tailwind CSS, HTML, CSS, JS                                         |
+| **Backend**                | ✅ Node.js, Express <br> ⚡ Flask, PHP                                        |
+| **AI / ML & Data Science** | ✅ Python, scikit-learn, pandas... <br> ⚡ R                                   |
+| **DevOps / Infrastructure**| ✅ Git, Docker <br> ⚡ Terraform, Proxmox                                     |
+| **Databases**              | ✅ MySQL, MongoDB <br> 🔹 OracleDB & PL/SQL (almost 3 months experience) <br> 🔹 CouchDB (tried once or twice) |
+| **Other**                  | ⚡ IoT (Proteus / never worked on an actual project, only simulations, basics) |
 
-**Backend:**  
-✅ Node.js, Express  
-⚡ Flask, PHP  
-
-**AI / ML & Data Science:**  
-✅ Python, scikit-learn, pandas...  
-⚡ R  
-
-**DevOps / Infrastructure:**  
-✅ Git, Docker  
-⚡ Terraform, Proxmox  
-
-**Databases:**  
-✅ MySQL, MongoDB  
-🔹 OracleDB and PL/SQL (almost 3 months experience)  
-🔹 CouchDB (tried once or twice)  
-
-**Other:**  
-⚡ IoT (Proteus/ never worked on an actual project, only simulations. But i have the basics)
-
----
 
 ### 🌱 Let's Connect
 📫 Reach me here on GitHub, LinkedIn or by email  
