@@ -20,11 +20,11 @@ This mindset guides how I explore technology and knowledge, helping me **connect
 | Category                  | Tools & Level                                                                 |
 |----------------------------|------------------------------------------------------------------------------|
 | **Frontend**               | ✅ React, Tailwind CSS, HTML, CSS, JS                                         |
-| **Backend**                | ✅ Node.js, Express <br> ⚡ Flask, PHP                                        |
+| **Backend**                | ✅ Node.js, Express <br> ⚡ Flask, Spring Boot, some PHP                       |
 | **AI / ML & Data Science** | ✅ Python, scikit-learn, pandas... <br> ⚡ R                                   |
 | **DevOps / Infrastructure**| ✅ Git, Docker <br> ⚡ Terraform, Proxmox                                     |
 | **Databases**              | ✅ MySQL, MongoDB <br> 🔹 OracleDB & PL/SQL (almost 3 months experience) <br> 🔹 CouchDB (tried once or twice) |
-| **Other**                  | ⚡ IoT (Proteus / never worked on an actual project, only simulations, basics) |
+| **Other**                  | ⚡ IoT (Proteus / never worked on an actual projects, only simulations, basics) |
 
 
 ### 🌱 Let's Connect
