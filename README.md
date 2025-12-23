@@ -2,10 +2,6 @@
 ### Final-year CS Student | AI, Web, DevOps & IoT Explorer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mohamed%20Iyed&fontSize=70&animation=fadeIn&theme=radical"  width="100%"/>
-
-  <br />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="200" />
 </div>
 
