@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Iyed&fontSize=70&animation=fadeIn&theme=radical" width="100%" />
 
   <h3> 👨‍💻 Full-Stack Engineer | AI Enthusiast | DevOps Explorer </h3>
 
