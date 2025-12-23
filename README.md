@@ -30,13 +30,17 @@ I am a passionate builder focused on the **intersection of technologies**. I don
 
 ### 📂 Featured Projects
 
-#### 🧠 [Career Personality Matching](https://github.com/O-imperador/Career_Personality_Matching)
-> An ML project that recommends top career paths based on personality traits and aptitudes.
-> `Python` `Scikit-Learn` `Pandas`
+#### 🧠 [HexCareer - Career Personality Matching](https://github.com/O-imperador/Career_Personality_Matching)
+> **[🚀 View Live Demo](https://hexcareer.vercel.app/)**
+> 
+> An ML-powered platform that recommends top career paths based on personality traits and aptitudes. It bridges the gap between psychological data and career development.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 #### 🔌 [IoT Sensor Simulator](#)
-> Hardware-software integration simulation using Proteus for real-world sensor data flows.
-> `IoT` `C++` `Proteus`
+> Hardware-software integration simulation using Proteus for real-world sensor data flows. Focuses on edge data collection and processing.
+>
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square)
 
 ---
 
