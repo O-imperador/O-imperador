@@ -1,43 +1,59 @@
-# Hi there, I'm Mohamed Iyed
+# 🚀 Hi, I'm Mohamed Iyed 
+### Final-year CS Student | AI, Web, DevOps & IoT Explorer
 
-🎓 Final-year Computer Science student | Exploring AI, Web Development, DevOps, IoT, Cloud, and Data Science  
-💡 Passionate about building projects that **connect technologies and solve real problems**  
-
----
-
-## About Me
-I enjoy exploring multiple fields—**AI, data science, cloud computing, full-stack development, DevOps, and IoT**.  
-I aim to understand the **intersections between technologies** to build a coherent, versatile skill set.  
-
-I believe in learning by doing, experimenting with real-world or experimental projects, and connecting concepts across domains to **create meaningful solutions**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=O-imperador&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="170" />
+</div>
 
 ---
 
-## 🛠 Skills & Tools
+### 🎓 About Me
+I am a passionate builder focused on the **intersection of technologies**. I don't just want to code; I want to understand how **AI** can live on **IoT** devices, managed by **DevOps** pipelines, and served via modern **Web Apps**.
 
-| Category                  | Tools & Level                                                                 |
-|----------------------------|------------------------------------------------------------------------------|
-| **Frontend**               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React, Tailwind CSS, HTML, CSS, JS |
-| **Backend**                | Node.js, Express, ⚡ Flask, some Spring Boot & PHP |
-| **AI / ML & Data Science** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python, scikit-learn, pandas, ⚡ R |
-| **DevOps / Infra**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git, Docker, ⚡ Terraform, Proxmox |
-| **Databases**              | MySQL, MongoDB, 🔹 OracleDB & PL/SQL (3 months experience), 🔹 CouchDB (tried) |
-| **Other**                  | ⚡ IoT (Proteus simulations, basics) |
+- 💡 **Philosophy:** Learning by doing and connecting the dots between domains.
+- 🔭 **Currently:** Deepening my knowledge in Cloud Infrastructure and Data Science.
 
 ---
 
-## Projects & Experiments
+### 🛠 Tech Stack
 
-- [Career Personality Matching](https://github.com/O-imperador/Career_Personality_Matching) – Recommend top careers based on personality and aptitude traits  
-- [IoT Sensor Simulator](#) – Simulated IoT projects in Proteus  
-- More projects coming soon…
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **AI & Data** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ---
 
-## Let's Connect
+### 📂 Featured Projects
 
-- GitHub: [O-imperador](https://github.com/O-imperador)  
-- LinkedIn: [Your LinkedIn](#)  
-- Email: your.email@example.com  
+#### 🧠 [Career Personality Matching](https://github.com/O-imperador/Career_Personality_Matching)
+> An ML project that recommends top career paths based on personality traits and aptitudes.
+> `Python` `Scikit-Learn` `Pandas`
 
-*Fun fact:* I enjoy building tools that make **learning, working, and decision-making easier**.
+#### 🔌 [IoT Sensor Simulator](#)
+> Hardware-software integration simulation using Proteus for real-world sensor data flows.
+> `IoT` `C++` `Proteus`
+
+---
+
+### 📈 Let's Connect
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/O-imperador">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+*Fun fact: I enjoy building tools that make learning and decision-making easier!*
