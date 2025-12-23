@@ -2,15 +2,11 @@
 ### Final-year CS Student | AI, Web, DevOps & IoT Explorer
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=O-imperador&theme=radical&no-bg=true&margin-w=15" alt="O-imperador Trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mohamed%20Iyed&fontSize=70&animation=fadeIn&theme=radical"  width="100%"/>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-imperador&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="200" />
 </div>
 
 ---
