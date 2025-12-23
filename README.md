@@ -2,8 +2,15 @@
 ### Final-year CS Student | AI, Web, DevOps & IoT Explorer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-imperador&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="170" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=O-imperador&theme=radical&no-bg=true&margin-w=15" alt="O-imperador Trophies" />
+  </a>
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-imperador&theme=radical&hide_border=true" height="180" />
 </div>
 
 ---
@@ -12,7 +19,7 @@
 I am a passionate builder focused on the **intersection of technologies**. I don't just want to code; I want to understand how **AI** can live on **IoT** devices, managed by **DevOps** pipelines, and served via modern **Web Apps**.
 
 - 💡 **Philosophy:** Learning by doing and connecting the dots between domains.
-- 🔭 **Currently:** Deepening my knowledge in Cloud Infrastructure and Data Science.
+- 🔭 **Currently:** Deepening my knowledge in Web Developement, AI and Data Science.
 
 ---
 
