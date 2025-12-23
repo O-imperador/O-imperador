@@ -1,32 +1,43 @@
-## Hi there , I'm Mohamed Iyed
+# Hi there, I'm Mohamed Iyed
 
- Final-year CS student | Learning by building real-world or experimental projects  
- Exploring **AI, Web Dev, DevOps, IoT, Cloud, Data Science**  
- Passionate about connecting technologies and finding intersections between fields  
+🎓 Final-year Computer Science student | Exploring AI, Web Development, DevOps, IoT, Cloud, and Data Science  
+💡 Passionate about building projects that **connect technologies and solve real problems**  
 
 ---
 
-### 1. My Learning Journey
-I’m currently exploring multiple fields—**DevOps, cloud computing, AI, data science, full-stack web development, IoT, networking, and more**. This exploration is part of my journey to discover what truly aligns with my interests and strengths.
+## About Me
+I enjoy exploring multiple fields—**AI, data science, cloud computing, full-stack development, DevOps, and IoT**.  
+I aim to understand the **intersections between technologies** to build a coherent, versatile skill set.  
 
-I’ve realized that I’m genuinely interested in whatever field I start exploring, but I also understand that to gain deep expertise, I need to focus on **one or two areas** and master them.
+I believe in learning by doing, experimenting with real-world or experimental projects, and connecting concepts across domains to **create meaningful solutions**.
 
-History shows that it’s possible to excel in multiple domains when their connections are understood. For example, polymaths like **Ibn Sina (Avicenna)** were simultaneously physicians, philosophers, mathematicians, and scientists—he didn’t just accumulate unrelated skills, he **connected them into a coherent understanding of the world**. Similarly, I aim to explore different fields while looking for the **intersections that link them together**, so I can eventually learn them as a unified, versatile discipline.
+---
 
-This mindset guides how I explore technology and knowledge, helping me **connect the dots** and gradually build a meaningful, versatile skill set. 
-
-### 2. Skills & Tools
+## 🛠 Skills & Tools
 
 | Category                  | Tools & Level                                                                 |
 |----------------------------|------------------------------------------------------------------------------|
-| **Frontend**               |  React, Tailwind CSS, HTML, CSS, JS                                         |
-| **Backend**                |  Node.js, Express <br> ⚡ Flask, some Spring Boot & PHP                       |
-| **AI / ML & Data Science** |  Python, scikit-learn, pandas... <br> ⚡ R                                   |
-| **DevOps / Infrastructure**|  Git, Docker <br> ⚡ Terraform, Proxmox                                     |
-| **Databases**              |  MySQL, MongoDB <br> 🔹 OracleDB & PL/SQL (almost 3 months of experience) <br> 🔹 CouchDB (tried once or twice) |
-| **Other**                  | ⚡ IoT (Proteus / never worked on an actual projects, only simulations, basics) |
+| **Frontend**               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React, Tailwind CSS, HTML, CSS, JS |
+| **Backend**                | Node.js, Express, ⚡ Flask, some Spring Boot & PHP |
+| **AI / ML & Data Science** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python, scikit-learn, pandas, ⚡ R |
+| **DevOps / Infra**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git, Docker, ⚡ Terraform, Proxmox |
+| **Databases**              | MySQL, MongoDB, 🔹 OracleDB & PL/SQL (3 months experience), 🔹 CouchDB (tried) |
+| **Other**                  | ⚡ IoT (Proteus simulations, basics) |
 
+---
 
-### Let's Connect
- Reach me here on GitHub, LinkedIn or by email  
- Fun fact: I enjoy building tools that **make learning, working and decision making easier**
+## Projects & Experiments
+
+- [Career Personality Matching](https://github.com/O-imperador/Career_Personality_Matching) – Recommend top careers based on personality and aptitude traits  
+- [IoT Sensor Simulator](#) – Simulated IoT projects in Proteus  
+- More projects coming soon…
+
+---
+
+## Let's Connect
+
+- GitHub: [O-imperador](https://github.com/O-imperador)  
+- LinkedIn: [Your LinkedIn](#)  
+- Email: your.email@example.com  
+
+*Fun fact:* I enjoy building tools that make **learning, working, and decision-making easier**.
