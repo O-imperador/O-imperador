@@ -2,7 +2,7 @@
 
   <h3> 👨‍💻 Full-Stack Engineer | AI Enthusiast | DevOps Explorer </h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=Bridging+AI+and+IoT;Building+Scalable+Web+Apps;Automating+with+DevOps;Data+Science+Lover" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;Data+Science+Enthusiast;Building+Intelligent+Web+Apps" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Tunisia-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
