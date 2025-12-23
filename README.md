@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Mohamed Iyed 
 ### Final-year CS Student | AI, Web, DevOps & IoT Explorer
-
+![Local Time](https://img.shields.io/badge/Local%20Time-Tunisia%20(GMT%2B1)-blue?style=for-the-badge&logo=clock)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-imperador&layout=compact&theme=radical&hide_border=true" height="200" />
 </div>
